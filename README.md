@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi,I'm YangBowen. 👋
+
+* 🎒 I’m currently learning Digital Media Technology.  
+* 🌱 I’m enthusiastic about MachineLearning / ComputerVision / ComputerGraphics.  
+* 📫 How to reach me **yaBorn@foxmail.com**  
 
 <!--
 **yaBorn/yaBorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
