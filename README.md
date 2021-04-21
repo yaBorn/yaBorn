@@ -1,8 +1,12 @@
-### Hi,I'm YangBowen. 👋
+<h2 align="center">
+ Hi, I'm YangBowen. 👋
+</h2>
 
 * 🎒 I’m currently learning Digital Media Technology.  
 * 🌱 I’m enthusiastic about MachineLearning / ComputerVision / ComputerGraphics.  
 * 📫 How to reach me **yaBorn@foxmail.com**  
+
+<a href="https://github.com/yaBorn"><img alt="yaBorn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yaBorn&bg_color=transparent&color=5BCDEC&line=5BCDEC&point=5BCDEC&hide_border=true"/></a>
 
 <!--
 **yaBorn/yaBorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
