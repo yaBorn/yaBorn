@@ -3,7 +3,7 @@
 </h2>
 
 * 🎒 I’m currently learning Digital Media Technology.  
-* 🌱 I’m enthusiastic about MachineLearning / ComputerVision / ComputerGraphics.  
+* 🌱 I’m enthusiastic about MachineLearning / ComputerVision / ComputerGraphics / ToyCode.  
 * 📫 How to reach me **yaBorn@foxmail.com**  
 
 
