@@ -4,7 +4,7 @@
 
 * 🎒 I’m currently learning Digital Media Technology.  
 * 🌱 I’m enthusiastic about MachineLearning / ComputerVision / ComputerGraphics / ToyCode.  
-* 📫 How to reach me **yaBorn@foxmail.com**  
+* 📫 How to reach me **yaBorn@foxmail.com** **qq1359195435**  
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yaBorn)
