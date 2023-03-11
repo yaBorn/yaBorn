@@ -2,10 +2,9 @@
  Hi, I'm YangBowen. 👋
 </h2>
 
-* 🎒 I’m currently learning Digital Media Technology.  
-<!-- * 🌱 I’m enthusiastic about MachineLearning / ComputerVision / some ToyCode.  -->
-* 🌱 I’m enthusiastic about ComputerVision / some ToyCode.  
-* 📫 How to reach me **yaBorn@foxmail.com**   
+* 🎒 专业： 江南大学(211) 数字媒体技术  
+<!-- * 🌱 方向： C++服务端开发、客户端开发  -->
+* 📫 联系： **yaBorn@foxmail.com**   
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yaBorn)
