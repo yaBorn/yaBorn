@@ -7,12 +7,13 @@
 * 🌱 求职中： C++服务端开发、客户端开发   
 
 
+<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yaBorn)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaBorn&layout=compact)
 
 ![Git process](https://activity-graph.herokuapp.com/graph?username=yaBorn&bg_color=transparent&color=5BCDEC&line=5BCDEC&point=5BCDEC&hide_border=true)
-
+-->
 
 <!--
 **yaBorn/yaBorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
